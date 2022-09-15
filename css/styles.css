@@ -3,7 +3,7 @@ body {
 }
 
 .indexpage {
-    background-color: rgb(178, 247, 247)
+    background-color: rgb(178, 247, 247);
 }
 
 .aboutmepage {
@@ -79,11 +79,9 @@ body {
 }
 
 .extra {
-    height: auto;
-    width: 600px;
     display: block;
     margin: 0 auto;
-    width: 50%;
+    width: 25%;
 }
 
 h1,
